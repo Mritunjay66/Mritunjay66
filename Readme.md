@@ -37,8 +37,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Mritunjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MritunjayGupta45&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MritunjayGupta45&layout=compact&theme=tokyonight)
+![Mritunjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mritunjay66&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mritunjay66&layout=compact&theme=tokyonight)
 
 ---
 
