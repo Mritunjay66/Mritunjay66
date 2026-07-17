@@ -1,18 +1,15 @@
-<!-- =============================== -->
-<!--        GITHUB PROFILE README    -->
-<!-- =============================== -->
-
 <h1 align="center">Hi 👋, I'm Mritunjay Gupta</h1>
 
 <h3 align="center">
-Embedded Systems Enthusiast | IoT Developer | Electronics & Communication Engineering Student
+Embedded Systems | Firmware Development | IoT
 </h3>
 
 <p align="center">
-Building intelligent embedded systems through hardware, firmware, and real-world innovation.
+<b><i>"Engineering intelligent systems where hardware meets software."</i></b>
 </p>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/mritunjaygupta45/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Mritunjay%20Gupta-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -29,13 +26,26 @@ Building intelligent embedded systems through hardware, firmware, and real-world
 
 # 👨‍💻 About Me
 
-- 🎓 Final Year Electronics & Communication Engineering Student
-- 💻 Passionate about **Embedded Systems**, **IoT**, and **Firmware Development**
-- 🔬 Interested in intelligent hardware, automation, and real-time embedded applications
-- 🌱 Currently improving my skills in Embedded C, Linux, Git, Raspberry Pi, and embedded programming
-- 🚀 Aspiring Embedded Systems Engineer
-- 📚 GATE (ECE) Aspirant
-- 📫 Reach me at **mritunjayg216@gmail.com**
+🎓 **B.Tech Graduate in Electronics & Communication Engineering**
+
+💻 Passionate about **Embedded Systems**, **Firmware Development**, and **IoT**
+
+🔬 Interested in intelligent hardware, real-time embedded systems, automation, and hardware-software integration
+
+🌱 Currently improving my knowledge in
+
+- Embedded C
+- C++
+- Raspberry Pi
+- Linux
+- Git & GitHub
+- Embedded Programming
+
+🚀 Aspiring **Embedded Systems Engineer**
+
+📡 Building practical embedded solutions through innovative engineering projects.
+
+📫 **Email:** **mritunjayg216@gmail.com**
 
 ---
 
@@ -85,6 +95,8 @@ Building intelligent embedded systems through hardware, firmware, and real-world
 
 <img src="https://img.shields.io/badge/Radar%20Sensor-red?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Servo%20Motor-7952B3?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -113,30 +125,30 @@ Building intelligent embedded systems through hardware, firmware, and real-world
 
 ## 📡 Smart Short-Range Doppler Radar System for Vital Sign Monitoring
 
-A research-oriented embedded system designed for **non-contact monitoring of human vital signs** using Doppler radar technology. The project focuses on real-time sensing and intelligent healthcare monitoring.
+A research-oriented embedded system for **non-contact monitoring of heart rate and respiration** using Doppler radar technology.
 
-**Highlights**
+### Highlights
 
 - 📡 Doppler Radar Based Monitoring
-- ❤️ Non-contact Heart Rate Detection
+- ❤️ Heart Rate Monitoring
 - 🌬 Respiration Monitoring
 - ⚙ Embedded Signal Processing
 - 📊 Real-Time Data Analysis
 
 **Technologies**
 
-`Embedded Systems` `Radar Sensor` `Arduino` `Signal Processing`
+`Embedded Systems` `Arduino` `Radar Sensor` `Signal Processing`
 
 ---
 
 ## 🚦 Smart Railway Signalling System
 
-An intelligent railway signalling system that automates train detection and railway gate control using embedded hardware.
+An embedded railway signalling system that automates train detection, railway gate control, and warning signals.
 
-**Highlights**
+### Highlights
 
 - Automatic Signal Control
-- IR Sensor Based Train Detection
+- Train Detection
 - Servo Controlled Railway Gate
 - LED Signal Automation
 - Buzzer Warning System
@@ -149,14 +161,14 @@ An intelligent railway signalling system that automates train detection and rail
 
 ## 💡 Smart Automatic Street Lighting System
 
-An energy-efficient street lighting system that automatically controls lighting based on ambient light and vehicle detection.
+A smart street lighting system that automatically adjusts lighting based on ambient light and vehicle detection.
 
-**Highlights**
+### Highlights
 
-- Automatic Light Detection
+- LDR Based Night Detection
 - Vehicle Detection
-- Energy Efficient Design
-- Smart Brightness Control
+- Automatic Brightness Control
+- Energy Efficient Lighting
 
 **Technologies**
 
@@ -190,7 +202,7 @@ An energy-efficient street lighting system that automatically controls lighting 
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mritunjay66&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mritunjay66&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -224,15 +236,15 @@ An energy-efficient street lighting system that automatically controls lighting 
 
 # 🎯 Career Objective
 
-> Passionate about developing reliable embedded systems that bridge hardware and software to solve real-world challenges. I enjoy learning new technologies, building innovative projects, and continuously improving my engineering skills.
+Electronics & Communication Engineering graduate with a strong interest in **Embedded Systems** and **Firmware Development**. Passionate about designing reliable embedded solutions that bridge hardware and software to solve real-world engineering challenges through practical innovation and continuous learning.
 
 ---
 
 <div align="center">
 
-### 💡 *"Engineering intelligent embedded systems for a smarter tomorrow."*
+### ⭐ Thanks for visiting my profile!
 
-⭐ **Thank you for visiting my profile!**
+*"Engineering intelligent systems where hardware meets software."*
 
 If you like my work, consider ⭐ starring my repositories.
 
